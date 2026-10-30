@@ -1,0 +1,215 @@
+{
+  "topic": "ShopEase Online Store - Customer Support",
+  "faqs": [
+    {
+      "category": "Orders",
+      "questions": ["How do I place an order?", "How can I buy a product?", "What are the steps to order something?"],
+      "answer": "Browse our catalog, click **Add to cart** on the products you want, then open your cart and click **Checkout**. Enter your shipping address, choose a payment method and confirm. You'll receive a confirmation email right away."
+    },
+    {
+      "category": "Orders",
+      "questions": ["How can I track my order?", "Where is my package?", "How do I know the status of my delivery?"],
+      "answer": "Go to **My Account → My Orders** and click **Track** next to your order. You'll also find the tracking number in your shipping confirmation email."
+    },
+    {
+      "category": "Orders",
+      "questions": ["Can I cancel my order?", "How do I cancel an order I just placed?"],
+      "answer": "You can cancel an order free of charge as long as it hasn't shipped. Go to **My Orders**, select the order and click **Cancel order**. If it has already shipped, you can return it once it arrives."
+    },
+    {
+      "category": "Orders",
+      "questions": ["Can I change my order after placing it?", "How do I modify my order?", "Can I add an item to an existing order?"],
+      "answer": "Orders can be modified within **1 hour** of being placed from **My Orders → Edit**. After that, please contact our support team and we'll do our best to help before it ships."
+    },
+    {
+      "category": "Orders",
+      "questions": ["I did not receive an order confirmation email", "Why didn't I get a confirmation email?"],
+      "answer": "Please check your spam or promotions folder first. If it's not there, make sure the email address in your account is correct. You can always see your order in **My Account → My Orders**."
+    },
+    {
+      "category": "Orders",
+      "questions": ["Is there a minimum order amount?", "What is the minimum purchase?"],
+      "answer": "There is no minimum order amount. However, orders over **$50** qualify for free standard shipping."
+    },
+    {
+      "category": "Shipping",
+      "questions": ["How long does shipping take?", "When will my order arrive?", "What is the delivery time?"],
+      "answer": "Standard shipping takes **3–5 business days** and express shipping takes **1–2 business days**. Orders placed before 2 PM ship the same day."
+    },
+    {
+      "category": "Shipping",
+      "questions": ["How much does shipping cost?", "What are the delivery fees?", "Is shipping free?"],
+      "answer": "Standard shipping is **free for orders over $50**, otherwise it costs $4.99. Express shipping costs $9.99 for any order."
+    },
+    {
+      "category": "Shipping",
+      "questions": ["Do you ship internationally?", "Can you deliver to another country?", "Which countries do you ship to?"],
+      "answer": "Yes, we ship to more than **40 countries**. International delivery takes 7–14 business days and the cost is calculated at checkout. Customs duties may apply depending on your country."
+    },
+    {
+      "category": "Shipping",
+      "questions": ["Can I change my shipping address?", "I entered the wrong delivery address"],
+      "answer": "If your order hasn't shipped yet, go to **My Orders → Edit address**. If it has already shipped, contact support and we'll try to redirect it with the carrier."
+    },
+    {
+      "category": "Shipping",
+      "questions": ["My package is late", "My order has not arrived yet", "My delivery is delayed"],
+      "answer": "Sorry about the delay! First check the tracking link in **My Orders**. If the package hasn't moved for more than 3 business days, contact us and we'll open an investigation with the carrier or send a replacement."
+    },
+    {
+      "category": "Shipping",
+      "questions": ["Can I pick up my order in store?", "Do you offer store pickup?"],
+      "answer": "Yes! Choose **Click & Collect** at checkout. Your order will be ready at the selected store within 24 hours and is free of charge."
+    },
+    {
+      "category": "Returns",
+      "questions": ["What is your return policy?", "Can I return a product?", "How many days do I have to return an item?"],
+      "answer": "You can return most items within **30 days** of delivery, as long as they are unused and in their original packaging. Returns are free for customers in our main shipping countries."
+    },
+    {
+      "category": "Returns",
+      "questions": ["How do I return an item?", "What are the steps to send a product back?"],
+      "answer": "Go to **My Orders**, select the item and click **Return**. Print the prepaid shipping label, pack the item and drop it off at any partner post office."
+    },
+    {
+      "category": "Returns",
+      "questions": ["When will I get my refund?", "How long does a refund take?", "I haven't received my refund"],
+      "answer": "Refunds are issued within **5 business days** after we receive your return. Depending on your bank, it can take another 3–5 days to appear on your statement."
+    },
+    {
+      "category": "Returns",
+      "questions": ["Can I exchange a product for a different size or color?", "How do I exchange an item?"],
+      "answer": "Yes. Start a return in **My Orders** and choose **Exchange** instead of refund, then select the new size or color. We ship the new item as soon as your return is scanned."
+    },
+    {
+      "category": "Returns",
+      "questions": ["I received a damaged item", "My product arrived broken", "The item I received is defective"],
+      "answer": "We're sorry! Please contact us within **7 days** with a photo of the damaged item. We'll send a free replacement or a full refund — you won't need to pay for the return."
+    },
+    {
+      "category": "Returns",
+      "questions": ["I received the wrong item", "This is not what I ordered"],
+      "answer": "Sorry for the mix-up! Contact support with your order number and a photo of the item you received. We'll ship the correct item immediately and send you a free return label."
+    },
+    {
+      "category": "Returns",
+      "questions": ["Which items cannot be returned?", "Are there products that are not refundable?"],
+      "answer": "For hygiene reasons, opened cosmetics, underwear and earphones cannot be returned. Gift cards and personalized products are also non-refundable."
+    },
+    {
+      "category": "Payment",
+      "questions": ["What payment methods do you accept?", "How can I pay?", "Can I pay with PayPal?"],
+      "answer": "We accept **Visa, Mastercard, American Express, PayPal, Apple Pay and Google Pay**. In some countries, cash on delivery is also available."
+    },
+    {
+      "category": "Payment",
+      "questions": ["Is it safe to pay on your website?", "Is my payment information secure?"],
+      "answer": "Yes. All payments are encrypted with SSL and processed by certified payment providers (PCI-DSS). We never store your full card number."
+    },
+    {
+      "category": "Payment",
+      "questions": ["Can I pay in installments?", "Do you offer buy now pay later?"],
+      "answer": "Yes, for orders over $100 you can split your payment into **3 or 4 interest-free installments** by selecting this option at checkout."
+    },
+    {
+      "category": "Payment",
+      "questions": ["My payment was declined", "Why did my payment fail?"],
+      "answer": "Please check your card details and billing address, and make sure your card allows online payments. If it still fails, try another payment method or contact your bank."
+    },
+    {
+      "category": "Payment",
+      "questions": ["I was charged twice", "Why do I see two payments for one order?"],
+      "answer": "Sometimes a temporary authorization appears in addition to the real charge. It disappears automatically within 3–5 days. If both charges remain after that, contact us and we'll refund the duplicate."
+    },
+    {
+      "category": "Payment",
+      "questions": ["How do I use a promo code?", "Where do I enter a discount code?", "My coupon is not working"],
+      "answer": "Enter your code in the **Promo code** field on the cart page and click **Apply**. Check that the code hasn't expired and that your cart meets its conditions (minimum amount, eligible products)."
+    },
+    {
+      "category": "Payment",
+      "questions": ["Can I get an invoice?", "How do I download my receipt?"],
+      "answer": "Yes. Go to **My Orders**, open the order and click **Download invoice** to get a PDF copy."
+    },
+    {
+      "category": "Account",
+      "questions": ["How do I create an account?", "How can I sign up?", "How do I register?"],
+      "answer": "Click **Sign up** at the top of the page and enter your name, email and a password — or sign up with Google or Apple. It only takes a minute."
+    },
+    {
+      "category": "Account",
+      "questions": ["I forgot my password", "How do I reset my password?", "I can't log in to my account"],
+      "answer": "Click **Log in → Forgot password?** and enter your email. You'll receive a link to create a new password (check your spam folder if you don't see it)."
+    },
+    {
+      "category": "Account",
+      "questions": ["Can I order without an account?", "Do I need an account to buy?"],
+      "answer": "Yes, you can check out as a **guest**. Creating an account lets you track orders, save addresses and earn loyalty points."
+    },
+    {
+      "category": "Account",
+      "questions": ["How do I delete my account?", "I want to close my account"],
+      "answer": "Go to **My Account → Privacy settings → Delete account**. Your personal data will be erased within 30 days, as required by data protection laws."
+    },
+    {
+      "category": "Account",
+      "questions": ["How do I update my personal information?", "How can I change my email address?"],
+      "answer": "Go to **My Account → Profile**, edit your name, email, phone number or saved addresses, then click **Save**."
+    },
+    {
+      "category": "Account",
+      "questions": ["How do I unsubscribe from your newsletter?", "Stop sending me promotional emails"],
+      "answer": "Click **Unsubscribe** at the bottom of any of our emails, or turn off newsletters in **My Account → Notifications**."
+    },
+    {
+      "category": "Products",
+      "questions": ["How do I know which size to choose?", "Is there a size guide?"],
+      "answer": "Every clothing and shoe page has a **Size guide** link under the size selector, with exact measurements. If you're between two sizes, we recommend choosing the larger one."
+    },
+    {
+      "category": "Products",
+      "questions": ["When will an out of stock item be available again?", "The product I want is sold out"],
+      "answer": "Click **Notify me** on the product page and we'll email you as soon as it's back in stock. Most items are restocked within 2–3 weeks."
+    },
+    {
+      "category": "Products",
+      "questions": ["Do your products have a warranty?", "What is the warranty period?"],
+      "answer": "All electronics come with a **2-year manufacturer warranty**. Keep your invoice — you'll need it for any warranty claim."
+    },
+    {
+      "category": "Products",
+      "questions": ["Are your products authentic?", "Do you sell original products?"],
+      "answer": "Yes, 100%. We buy directly from brands and their official distributors, so every product is guaranteed authentic."
+    },
+    {
+      "category": "Products",
+      "questions": ["Do you sell gift cards?", "How do gift cards work?"],
+      "answer": "Yes! Gift cards are available from $10 to $500 and are sent by email instantly. They are valid for 12 months and can be used on any product."
+    },
+    {
+      "category": "Loyalty",
+      "questions": ["Do you have a loyalty program?", "How do I earn reward points?", "How do loyalty points work?"],
+      "answer": "Yes — **ShopEase Rewards** is free. You earn 1 point for every $1 spent, and 100 points give you $5 off your next order. Points are added once your order is delivered."
+    },
+    {
+      "category": "Loyalty",
+      "questions": ["Do you offer student discounts?", "Is there a discount for students?"],
+      "answer": "Yes! Verify your student status in **My Account → Student offer** to get **10% off** all year round."
+    },
+    {
+      "category": "Contact",
+      "questions": ["How can I contact customer service?", "How do I talk to a human?", "What is your phone number?"],
+      "answer": "You can reach our team by live chat on the website, by email at **support@shopease.example** or by phone at **+1 800 555 0199**, Monday to Saturday, 9 AM – 6 PM."
+    },
+    {
+      "category": "Contact",
+      "questions": ["What are your opening hours?", "When is customer support available?"],
+      "answer": "Our online store is open 24/7. Customer support is available **Monday to Saturday, 9 AM – 6 PM**."
+    },
+    {
+      "category": "Contact",
+      "questions": ["Where are your stores located?", "Do you have physical shops?"],
+      "answer": "We have 25 stores across the country. Use the **Store locator** at the bottom of our website to find the nearest one and its opening hours."
+    }
+  ]
+}
